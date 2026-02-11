@@ -224,13 +224,6 @@
         "player_name": "Al Rumhy, Azzan"
     },
     {
-        "amateur": 1,
-        "country": "Qatar",
-        "country_code": "QAT",
-        "dg_id": 15960,
-        "player_name": "Al Shahrani, Abdulrahman Abdulla"
-    },
-    {
         "amateur": 0,
         "country": "Saudi Arabia",
         "country_code": "KSA",
@@ -238,11 +231,18 @@
         "player_name": "Al Sharif, Saud"
     },
     {
-        "amateur": 1,
+        "amateur": 0,
         "country": "Bahrain",
         "country_code": "BRN",
         "dg_id": 30586,
         "player_name": "Al Zayed, Ahmed"
+    },
+    {
+        "amateur": 1,
+        "country": "Qatar",
+        "country_code": "QAT",
+        "dg_id": 15960,
+        "player_name": "Al-Shahrani, Ali"
     },
     {
         "amateur": 0,
@@ -308,7 +308,7 @@
         "player_name": "Alker, Steven"
     },
     {
-        "amateur": 0,
+        "amateur": 1,
         "country": "Bahrain",
         "country_code": "BRN",
         "dg_id": 26093,
@@ -5223,16 +5223,16 @@
     },
     {
         "amateur": 0,
-        "country": "United States",
-        "country_code": "USA",
-        "dg_id": 18187,
+        "country": "Australia",
+        "country_code": "AUS",
+        "dg_id": 24191,
         "player_name": "Duncan, Tyler"
     },
     {
         "amateur": 0,
-        "country": "Australia",
-        "country_code": "AUS",
-        "dg_id": 24191,
+        "country": "United States",
+        "country_code": "USA",
+        "dg_id": 18187,
         "player_name": "Duncan, Tyler"
     },
     {
@@ -5446,7 +5446,7 @@
         "player_name": "Eichhorn, Hunter"
     },
     {
-        "amateur": 1,
+        "amateur": 0,
         "country": "Germany",
         "country_code": "GER",
         "dg_id": 28406,
@@ -9651,6 +9651,13 @@
         "country_code": "JPN",
         "dg_id": 18809,
         "player_name": "Ikemura, Tomoyo"
+    },
+    {
+        "amateur": 0,
+        "country": "Australia",
+        "country_code": "AUS",
+        "dg_id": 34886,
+        "player_name": "Ikstrums, Andrew Charles"
     },
     {
         "amateur": 0,

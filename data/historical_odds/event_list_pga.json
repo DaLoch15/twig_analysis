@@ -1,0 +1,2546 @@
+[
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 2,
+        "event_name": "Desert Classic",
+        "matchups": "yes",
+        "outrights": "no"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 2,
+        "event_name": "The American Express",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 2,
+        "event_name": "The American Express",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 2,
+        "event_name": "The American Express",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 2,
+        "event_name": "The American Express",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 2,
+        "event_name": "The American Express",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 2,
+        "event_name": "The American Express",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2026,
+        "event_id": 2,
+        "event_name": "The American Express",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 3,
+        "event_name": "Waste Management Phoenix Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 3,
+        "event_name": "Waste Management Phoenix Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 3,
+        "event_name": "Waste Management Phoenix Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 3,
+        "event_name": "WM Phoenix Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 3,
+        "event_name": "WM Phoenix Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 3,
+        "event_name": "WM Phoenix Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 3,
+        "event_name": "WM Phoenix Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2026,
+        "event_id": 3,
+        "event_name": "WM Phoenix Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 4,
+        "event_name": "Farmers Insurance Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 4,
+        "event_name": "Farmers Insurance Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 4,
+        "event_name": "Farmers Insurance Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 4,
+        "event_name": "Farmers Insurance Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 4,
+        "event_name": "Farmers Insurance Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 4,
+        "event_name": "Farmers Insurance Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 4,
+        "event_name": "Farmers Insurance Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2026,
+        "event_id": 4,
+        "event_name": "Farmers Insurance Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 5,
+        "event_name": "AT&T Pebble Beach Pro-Am",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 5,
+        "event_name": "AT&T Pebble Beach Pro-Am",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 5,
+        "event_name": "AT&T Pebble Beach Pro-Am",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 5,
+        "event_name": "AT&T Pebble Beach Pro-Am",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 5,
+        "event_name": "AT&T Pebble Beach Pro-Am",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 5,
+        "event_name": "AT&T Pebble Beach Pro-Am",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 5,
+        "event_name": "AT&T Pebble Beach Pro-Am",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 6,
+        "event_name": "Sony Open in Hawaii",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 6,
+        "event_name": "Sony Open in Hawaii",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 6,
+        "event_name": "Sony Open in Hawaii",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 6,
+        "event_name": "Sony Open in Hawaii",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 6,
+        "event_name": "Sony Open in Hawaii",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 6,
+        "event_name": "Sony Open in Hawaii",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2026,
+        "event_id": 6,
+        "event_name": "Sony Open in Hawaii",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 7,
+        "event_name": "Genesis Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 7,
+        "event_name": "The Genesis Invitational",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 7,
+        "event_name": "The Genesis Invitational",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 7,
+        "event_name": "The Genesis Invitational",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 7,
+        "event_name": "The Genesis Invitational",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 7,
+        "event_name": "The Genesis Invitational",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 7,
+        "event_name": "The Genesis Invitational",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 9,
+        "event_name": "Arnold Palmer Invitational presented by Mastercard",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 9,
+        "event_name": "Arnold Palmer Invitational presented by Mastercard",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 9,
+        "event_name": "Arnold Palmer Invitational presented by Mastercard",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 9,
+        "event_name": "Arnold Palmer Invitational presented by Mastercard",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 9,
+        "event_name": "Arnold Palmer Invitational presented by Mastercard",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 9,
+        "event_name": "Arnold Palmer Invitational presented by Mastercard",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 9,
+        "event_name": "Arnold Palmer Invitational presented by Mastercard",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 10,
+        "event_name": "The Honda Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 10,
+        "event_name": "The Honda Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 10,
+        "event_name": "The Honda Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 10,
+        "event_name": "The Honda Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 10,
+        "event_name": "The Honda Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 10,
+        "event_name": "Cognizant Classic in The Palm Beaches",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 10,
+        "event_name": "Cognizant Classic in The Palm Beaches",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 11,
+        "event_name": "THE PLAYERS Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 11,
+        "event_name": "THE PLAYERS Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 11,
+        "event_name": "THE PLAYERS Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 11,
+        "event_name": "THE PLAYERS Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 11,
+        "event_name": "THE PLAYERS Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 11,
+        "event_name": "THE PLAYERS Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 11,
+        "event_name": "THE PLAYERS Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 12,
+        "event_name": "RBC Heritage",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 12,
+        "event_name": "RBC Heritage",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 12,
+        "event_name": "RBC Heritage",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 12,
+        "event_name": "RBC Heritage",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 12,
+        "event_name": "RBC Heritage",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 12,
+        "event_name": "RBC Heritage",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 12,
+        "event_name": "RBC Heritage",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 13,
+        "event_name": "Wyndham Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 13,
+        "event_name": "Wyndham Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 13,
+        "event_name": "Wyndham Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 13,
+        "event_name": "Wyndham Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 13,
+        "event_name": "Wyndham Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 13,
+        "event_name": "Wyndham Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 13,
+        "event_name": "Wyndham Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 14,
+        "event_name": "The Masters",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 14,
+        "event_name": "The Masters",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 14,
+        "event_name": "The Masters",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 14,
+        "event_name": "Masters Tournament",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 14,
+        "event_name": "Masters Tournament",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 14,
+        "event_name": "Masters Tournament",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 16,
+        "event_name": "Sentry Tournament of Champions",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 16,
+        "event_name": "Sentry Tournament of Champions",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 16,
+        "event_name": "Sentry Tournament of Champions",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 16,
+        "event_name": "Sentry Tournament of Champions",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 16,
+        "event_name": "The Sentry",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 16,
+        "event_name": "The Sentry",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 19,
+        "event_name": "AT&T Byron Nelson",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 19,
+        "event_name": "AT&T Byron Nelson",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 19,
+        "event_name": "AT&T Byron Nelson",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 19,
+        "event_name": "AT&T Byron Nelson",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 19,
+        "event_name": "THE CJ CUP Byron Nelson",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 19,
+        "event_name": "THE CJ CUP Byron Nelson",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 20,
+        "event_name": "Houston Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 20,
+        "event_name": "Vivint Houston Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 20,
+        "event_name": "Hewlett Packard Enterprise Houston Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 20,
+        "event_name": "Cadence Bank Houston Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 20,
+        "event_name": "Texas Children's Houston Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 20,
+        "event_name": "Texas Children's Houston Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 21,
+        "event_name": "Charles Schwab Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 21,
+        "event_name": "Charles Schwab Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 21,
+        "event_name": "Charles Schwab Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 21,
+        "event_name": "Charles Schwab Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 21,
+        "event_name": "Charles Schwab Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 21,
+        "event_name": "Charles Schwab Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 21,
+        "event_name": "Charles Schwab Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 23,
+        "event_name": "the Memorial Tournament presented by Nationwide",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 23,
+        "event_name": "the Memorial Tournament presented by Nationwide",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 23,
+        "event_name": "the Memorial Tournament presented by Nationwide",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 23,
+        "event_name": "the Memorial Tournament presented by Workday",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 23,
+        "event_name": "the Memorial Tournament presented by Workday",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 23,
+        "event_name": "the Memorial Tournament presented by Workday",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 23,
+        "event_name": "the Memorial Tournament presented by Workday",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 26,
+        "event_name": "U.S. Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 26,
+        "event_name": "U.S. Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 26,
+        "event_name": "U.S. Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 26,
+        "event_name": "U.S. Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 26,
+        "event_name": "U.S. Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 26,
+        "event_name": "U.S. Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 27,
+        "event_name": "THE NORTHERN TRUST",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 27,
+        "event_name": "THE NORTHERN TRUST",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 27,
+        "event_name": "THE NORTHERN TRUST",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 27,
+        "event_name": "FedEx St. Jude Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 27,
+        "event_name": "FedEx St. Jude Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 27,
+        "event_name": "FedEx St. Jude Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 27,
+        "event_name": "FedEx St. Jude Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 28,
+        "event_name": "BMW Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 28,
+        "event_name": "BMW Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 28,
+        "event_name": "BMW Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 28,
+        "event_name": "BMW Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 28,
+        "event_name": "BMW Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 28,
+        "event_name": "BMW Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 28,
+        "event_name": "BMW Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 30,
+        "event_name": "John Deere Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 30,
+        "event_name": "John Deere Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 30,
+        "event_name": "John Deere Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 30,
+        "event_name": "John Deere Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 30,
+        "event_name": "John Deere Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 30,
+        "event_name": "John Deere Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 32,
+        "event_name": "RBC Canadian Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 32,
+        "event_name": "RBC Canadian Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 32,
+        "event_name": "RBC Canadian Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 32,
+        "event_name": "RBC Canadian Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 32,
+        "event_name": "RBC Canadian Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 33,
+        "event_name": "PGA Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 33,
+        "event_name": "PGA Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 33,
+        "event_name": "PGA Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 33,
+        "event_name": "PGA Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 33,
+        "event_name": "PGA Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 33,
+        "event_name": "PGA Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 33,
+        "event_name": "PGA Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 34,
+        "event_name": "Travelers Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 34,
+        "event_name": "Travelers Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 34,
+        "event_name": "Travelers Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 34,
+        "event_name": "Travelers Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 34,
+        "event_name": "Travelers Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 34,
+        "event_name": "Travelers Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 34,
+        "event_name": "Travelers Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 41,
+        "event_name": "Valero Texas Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 41,
+        "event_name": "Valero Texas Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 41,
+        "event_name": "Valero Texas Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 41,
+        "event_name": "Valero Texas Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 41,
+        "event_name": "Valero Texas Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 41,
+        "event_name": "Valero Texas Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 47,
+        "event_name": "Shriners Hospitals for Children Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 47,
+        "event_name": "Shriners Hospitals for Children Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 47,
+        "event_name": "Shriners Children's Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 47,
+        "event_name": "Shriners Children's Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 47,
+        "event_name": "Shriners Children's Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 54,
+        "event_name": "Sanderson Farms Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 54,
+        "event_name": "Sanderson Farms Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 54,
+        "event_name": "Sanderson Farms Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 54,
+        "event_name": "Sanderson Farms Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 54,
+        "event_name": "Sanderson Farms Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 54,
+        "event_name": "Sanderson Farms Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 60,
+        "event_name": "TOUR Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 60,
+        "event_name": "TOUR Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 60,
+        "event_name": "TOUR Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 60,
+        "event_name": "TOUR Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 60,
+        "event_name": "TOUR Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 60,
+        "event_name": "TOUR Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 60,
+        "event_name": "TOUR Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 88,
+        "event_name": "PGA TOUR Q-School presented by Korn Ferry",
+        "matchups": "no",
+        "outrights": "no"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 88,
+        "event_name": "PGA TOUR Q-School presented by Korn Ferry",
+        "matchups": "no",
+        "outrights": "no"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 88,
+        "event_name": "PGA TOUR Q-School presented by Korn Ferry",
+        "matchups": "no",
+        "outrights": "no"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 457,
+        "event_name": "Mayakoba Golf Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 457,
+        "event_name": "Mayakoba Golf Classic presented by UNIFIN",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 457,
+        "event_name": "World Wide Technology Championship at Mayakoba",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 457,
+        "event_name": "World Wide Technology Championship at Mayakoba",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 457,
+        "event_name": "World Wide Technology Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 457,
+        "event_name": "World Wide Technology Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 464,
+        "event_name": "Safeway Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 464,
+        "event_name": "Safeway Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 464,
+        "event_name": "Fortinet Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 464,
+        "event_name": "Fortinet Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 464,
+        "event_name": "Procore Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 464,
+        "event_name": "Procore Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 472,
+        "event_name": "Barracuda Championship",
+        "matchups": "no",
+        "outrights": "no"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 472,
+        "event_name": "Barracuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 472,
+        "event_name": "Barracuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 472,
+        "event_name": "Barracuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 472,
+        "event_name": "Barracuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 472,
+        "event_name": "Barracuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 473,
+        "event_name": "World Golf Championships-Mexico Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 473,
+        "event_name": "World Golf Championships-Mexico Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 473,
+        "event_name": "World Golf Championships-Workday Championship at The Concession",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 475,
+        "event_name": "Valspar Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 475,
+        "event_name": "Valspar Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 475,
+        "event_name": "Valspar Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 475,
+        "event_name": "Valspar Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 475,
+        "event_name": "Valspar Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 475,
+        "event_name": "Valspar Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 476,
+        "event_name": "World Golf Championships-FedEx St. Jude Invitational",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 476,
+        "event_name": "World Golf Championships-FedEx St. Jude Invitational",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 476,
+        "event_name": "World Golf Championships-FedEx St. Jude Invitational",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 478,
+        "event_name": "Hero World Challenge",
+        "matchups": "yes",
+        "outrights": "no"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 478,
+        "event_name": "Hero World Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 478,
+        "event_name": "Hero World Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 478,
+        "event_name": "Hero World Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 478,
+        "event_name": "Hero World Challenge",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 480,
+        "event_name": "Wells Fargo Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 480,
+        "event_name": "Wells Fargo Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 480,
+        "event_name": "Wells Fargo Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 480,
+        "event_name": "Wells Fargo Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 480,
+        "event_name": "Wells Fargo Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 480,
+        "event_name": "Truist Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2020,
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "matchups": "yes",
+        "outrights": "no"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 489,
+        "event_name": "World Golf Championships-HSBC Champions",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 490,
+        "event_name": "A Military Tribute at The Greenbrier",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 493,
+        "event_name": "The RSM Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 493,
+        "event_name": "The RSM Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 493,
+        "event_name": "The RSM Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 493,
+        "event_name": "The RSM Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 493,
+        "event_name": "The RSM Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 493,
+        "event_name": "The RSM Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 518,
+        "event_name": "Barbasol Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 518,
+        "event_name": "Barbasol Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 518,
+        "event_name": "Barbasol Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 518,
+        "event_name": "ISCO Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 518,
+        "event_name": "ISCO Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 519,
+        "event_name": "Olympic Men's Golf Competition",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 519,
+        "event_name": "Olympic Men's Golf Competition",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 521,
+        "event_name": "THE CJ CUP @ NINE BRIDGES",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 521,
+        "event_name": "THE CJ CUP @ SHADOW CREEK",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 521,
+        "event_name": "THE CJ CUP @ SUMMIT",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 521,
+        "event_name": "THE CJ CUP in South Carolina",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 522,
+        "event_name": "Corales Puntacana Resort & Club Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 522,
+        "event_name": "Corales Puntacana Resort & Club Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 522,
+        "event_name": "Corales Puntacana Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 522,
+        "event_name": "Corales Puntacana Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 522,
+        "event_name": "Corales Puntacana Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 522,
+        "event_name": "Corales Puntacana Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 524,
+        "event_name": "Rocket Mortgage Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 524,
+        "event_name": "Rocket Mortgage Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 524,
+        "event_name": "Rocket Mortgage Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 524,
+        "event_name": "Rocket Mortgage Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 524,
+        "event_name": "Rocket Mortgage Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 524,
+        "event_name": "Rocket Mortgage Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 524,
+        "event_name": "Rocket Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 525,
+        "event_name": "3M Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 525,
+        "event_name": "3M Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 525,
+        "event_name": "3M Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 525,
+        "event_name": "3M Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 525,
+        "event_name": "3M Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 525,
+        "event_name": "3M Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 525,
+        "event_name": "3M Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "no",
+        "calendar_year": 2019,
+        "event_id": 527,
+        "event_name": "ZOZO CHAMPIONSHIP",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 527,
+        "event_name": "ZOZO CHAMPIONSHIP @ SHERWOOD",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 527,
+        "event_name": "ZOZO CHAMPIONSHIP",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 527,
+        "event_name": "ZOZO CHAMPIONSHIP",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 527,
+        "event_name": "ZOZO CHAMPIONSHIP",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 527,
+        "event_name": "Baycurrent Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 528,
+        "event_name": "Bermuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 528,
+        "event_name": "Butterfield Bermuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 528,
+        "event_name": "Butterfield Bermuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 528,
+        "event_name": "Butterfield Bermuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 528,
+        "event_name": "Butterfield Bermuda Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2020,
+        "event_id": 533,
+        "event_name": "Workday Charity Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 534,
+        "event_name": "Corales Puntacana Resort & Club Championship #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 535,
+        "event_name": "U.S. Open #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 536,
+        "event_name": "The Masters #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2021,
+        "event_id": 538,
+        "event_name": "Palmetto Championship at Congaree",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 540,
+        "event_name": "Mexico Open at Vidanta",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 540,
+        "event_name": "Mexico Open at Vidanta",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 540,
+        "event_name": "Mexico Open at Vidanta",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 540,
+        "event_name": "Mexico Open at VidantaWorld",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2022,
+        "event_id": 541,
+        "event_name": "Genesis Scottish Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 541,
+        "event_name": "Genesis Scottish Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 541,
+        "event_name": "Genesis Scottish Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 541,
+        "event_name": "Genesis Scottish Open",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 543,
+        "event_name": "Fortinet Championship #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 544,
+        "event_name": "Sanderson Farms Championship #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 545,
+        "event_name": "Shriners Children's Open #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 546,
+        "event_name": "ZOZO CHAMPIONSHIP #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 547,
+        "event_name": "World Wide Technology Championship #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 548,
+        "event_name": "Butterfield Bermuda Championship #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 549,
+        "event_name": "The RSM Classic #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2023,
+        "event_id": 550,
+        "event_name": "Hero World Challenge #2",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 553,
+        "event_name": "Myrtle Beach Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 553,
+        "event_name": "ONEflight Myrtle Beach Classic",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2024,
+        "event_id": 554,
+        "event_name": "Black Desert Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
+        "calendar_year": 2025,
+        "event_id": 554,
+        "event_name": "Bank of Utah Championship",
+        "matchups": "yes",
+        "outrights": "yes"
+    }
+]

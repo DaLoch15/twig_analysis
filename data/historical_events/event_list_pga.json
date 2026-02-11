@@ -1,6 +1,13 @@
 [
     {
         "calendar_year": 2026,
+        "date": "2026-02-08",
+        "event_id": 3,
+        "event_name": "WM Phoenix Open",
+        "tour": "pga"
+    },
+    {
+        "calendar_year": 2026,
         "date": "2026-02-01",
         "event_id": 4,
         "event_name": "Farmers Insurance Open",
@@ -107,15 +114,15 @@
     {
         "calendar_year": 2025,
         "date": "2025-07-20",
-        "event_id": 100,
-        "event_name": "The Open Championship",
+        "event_id": 472,
+        "event_name": "Barracuda Championship",
         "tour": "pga"
     },
     {
         "calendar_year": 2025,
         "date": "2025-07-20",
-        "event_id": 472,
-        "event_name": "Barracuda Championship",
+        "event_id": 100,
+        "event_name": "The Open Championship",
         "tour": "pga"
     },
     {
@@ -191,15 +198,15 @@
     {
         "calendar_year": 2025,
         "date": "2025-05-11",
-        "event_id": 480,
-        "event_name": "Truist Championship",
+        "event_id": 553,
+        "event_name": "ONEflight Myrtle Beach Classic",
         "tour": "pga"
     },
     {
         "calendar_year": 2025,
         "date": "2025-05-11",
-        "event_id": 553,
-        "event_name": "ONEflight Myrtle Beach Classic",
+        "event_id": 480,
+        "event_name": "Truist Championship",
         "tour": "pga"
     },
     {

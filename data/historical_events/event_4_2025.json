@@ -1,0 +1,1242 @@
+{
+    "event_completed": "2025-01-25",
+    "event_id": "4",
+    "event_name": "Farmers Insurance Open",
+    "event_stats": [
+        {
+            "dg_id": 14577,
+            "dg_points": 10.0926,
+            "earnings": 1674000,
+            "fec_points": 500.0,
+            "fin_text": "1",
+            "player_name": "English, Harris"
+        },
+        {
+            "dg_id": 25569,
+            "dg_points": 5.6489,
+            "earnings": 1013700,
+            "fec_points": 300.0,
+            "fin_text": "2",
+            "player_name": "Stevens, Sam"
+        },
+        {
+            "dg_id": 23475,
+            "dg_points": 4.0923,
+            "earnings": 641700,
+            "fec_points": 190.0,
+            "fin_text": "3",
+            "player_name": "Novak, Andrew"
+        },
+        {
+            "dg_id": 15651,
+            "dg_points": 2.9394,
+            "earnings": 418500,
+            "fec_points": 122.5,
+            "fin_text": "T4",
+            "player_name": "Ventura, Kris"
+        },
+        {
+            "dg_id": 17488,
+            "dg_points": 2.9394,
+            "earnings": 418500,
+            "fec_points": 122.5,
+            "fin_text": "T4",
+            "player_name": "Im, Sungjae"
+        },
+        {
+            "dg_id": 21995,
+            "dg_points": 2.3017,
+            "earnings": 337125,
+            "fec_points": 100.0,
+            "fin_text": "6",
+            "player_name": "Springer, Hayden"
+        },
+        {
+            "dg_id": 17780,
+            "dg_points": 1.9095,
+            "earnings": 302250,
+            "fec_points": 87.5,
+            "fin_text": "T7",
+            "player_name": "Pendrith, Taylor"
+        },
+        {
+            "dg_id": 26660,
+            "dg_points": 1.9095,
+            "earnings": 302250,
+            "fec_points": 87.5,
+            "fin_text": "T7",
+            "player_name": "Gordon, Will"
+        },
+        {
+            "dg_id": 12920,
+            "dg_points": 1.3232,
+            "earnings": 225525,
+            "fec_points": 67.833,
+            "fin_text": "T9",
+            "player_name": "Willett, Danny"
+        },
+        {
+            "dg_id": 14509,
+            "dg_points": 1.3232,
+            "earnings": 225525,
+            "fec_points": 67.833,
+            "fin_text": "T9",
+            "player_name": "Dahmen, Joel"
+        },
+        {
+            "dg_id": 23482,
+            "dg_points": 1.3232,
+            "earnings": 225525,
+            "fec_points": 67.833,
+            "fin_text": "T9",
+            "player_name": "Sigg, Greyson"
+        },
+        {
+            "dg_id": 15330,
+            "dg_points": 1.3232,
+            "earnings": 225525,
+            "fec_points": 67.833,
+            "fin_text": "T9",
+            "player_name": "Griffin, Lanto"
+        },
+        {
+            "dg_id": 13497,
+            "dg_points": 1.3232,
+            "earnings": 225525,
+            "fec_points": 67.833,
+            "fin_text": "T9",
+            "player_name": "Lee, K.H."
+        },
+        {
+            "dg_id": 25157,
+            "dg_points": 1.3232,
+            "earnings": 225525,
+            "fec_points": 67.833,
+            "fin_text": "T9",
+            "player_name": "Hodges, Lee"
+        },
+        {
+            "dg_id": 17536,
+            "dg_points": 0.8034,
+            "earnings": 132732,
+            "fec_points": 46.0,
+            "fin_text": "T15",
+            "player_name": "Spaun, J.J."
+        },
+        {
+            "dg_id": 27900,
+            "dg_points": 0.8034,
+            "earnings": 132732,
+            "fec_points": 46.0,
+            "fin_text": "T15",
+            "player_name": "Potgieter, Aldrich"
+        },
+        {
+            "dg_id": 23816,
+            "dg_points": 0.8034,
+            "earnings": 132732,
+            "fec_points": 46.0,
+            "fin_text": "T15",
+            "player_name": "Valimaki, Sami"
+        },
+        {
+            "dg_id": 8480,
+            "dg_points": 0.8034,
+            "earnings": 132732,
+            "fec_points": 46.0,
+            "fin_text": "T15",
+            "player_name": "Streelman, Kevin"
+        },
+        {
+            "dg_id": 14181,
+            "dg_points": 0.8034,
+            "earnings": 132732,
+            "fec_points": 46.0,
+            "fin_text": "T15",
+            "player_name": "Detry, Thomas"
+        },
+        {
+            "dg_id": 15470,
+            "dg_points": 0.8034,
+            "earnings": 132732,
+            "fec_points": 46.0,
+            "fin_text": "T15",
+            "player_name": "Hossler, Beau"
+        },
+        {
+            "dg_id": 13872,
+            "dg_points": 0.8034,
+            "earnings": 132732,
+            "fec_points": 46.0,
+            "fin_text": "T15",
+            "player_name": "Bradley, Keegan"
+        },
+        {
+            "dg_id": 29767,
+            "dg_points": 0.8034,
+            "earnings": 132732,
+            "fec_points": 46.0,
+            "fin_text": "T15",
+            "player_name": "Gerard, Ryan"
+        },
+        {
+            "dg_id": 27819,
+            "dg_points": 0.8034,
+            "earnings": 132732,
+            "fec_points": 46.0,
+            "fin_text": "T15",
+            "player_name": "Castillo, Ricky"
+        },
+        {
+            "dg_id": 32330,
+            "dg_points": 0.8034,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "T15",
+            "player_name": "Clanton, Luke"
+        },
+        {
+            "dg_id": 11460,
+            "dg_points": 0.5431,
+            "earnings": 74068,
+            "fec_points": 31.0,
+            "fin_text": "T25",
+            "player_name": "Manassero, Matteo"
+        },
+        {
+            "dg_id": 16715,
+            "dg_points": 0.5431,
+            "earnings": 74068,
+            "fec_points": 31.0,
+            "fin_text": "T25",
+            "player_name": "Ryder, Sam"
+        },
+        {
+            "dg_id": 19477,
+            "dg_points": 0.5431,
+            "earnings": 74068,
+            "fec_points": 31.0,
+            "fin_text": "T25",
+            "player_name": "Schenk, Adam"
+        },
+        {
+            "dg_id": 27774,
+            "dg_points": 0.5431,
+            "earnings": 74068,
+            "fec_points": 31.0,
+            "fin_text": "T25",
+            "player_name": "Gotterup, Chris"
+        },
+        {
+            "dg_id": 20722,
+            "dg_points": 0.5431,
+            "earnings": 74068,
+            "fec_points": 31.0,
+            "fin_text": "T25",
+            "player_name": "Schmid, Matti"
+        },
+        {
+            "dg_id": 5768,
+            "dg_points": 0.5431,
+            "earnings": 74068,
+            "fec_points": 31.0,
+            "fin_text": "T25",
+            "player_name": "Hoffman, Charley"
+        },
+        {
+            "dg_id": 21236,
+            "dg_points": 0.5431,
+            "earnings": 74068,
+            "fec_points": 31.0,
+            "fin_text": "T25",
+            "player_name": "Bryan, Wesley"
+        },
+        {
+            "dg_id": 19396,
+            "dg_points": 0.4169,
+            "earnings": 52080,
+            "fec_points": 20.688,
+            "fin_text": "T32",
+            "player_name": "Knapp, Jake"
+        },
+        {
+            "dg_id": 13562,
+            "dg_points": 0.4169,
+            "earnings": 52080,
+            "fec_points": 20.688,
+            "fin_text": "T32",
+            "player_name": "Matsuyama, Hideki"
+        },
+        {
+            "dg_id": 9771,
+            "dg_points": 0.4169,
+            "earnings": 52080,
+            "fec_points": 20.688,
+            "fin_text": "T32",
+            "player_name": "Day, Jason"
+        },
+        {
+            "dg_id": 25908,
+            "dg_points": 0.4169,
+            "earnings": 52080,
+            "fec_points": 20.688,
+            "fin_text": "T32",
+            "player_name": "Whaley, Vince"
+        },
+        {
+            "dg_id": 17639,
+            "dg_points": 0.4169,
+            "earnings": 52080,
+            "fec_points": 20.688,
+            "fin_text": "T32",
+            "player_name": "Blair, Zac"
+        },
+        {
+            "dg_id": 8820,
+            "dg_points": 0.4169,
+            "earnings": 52080,
+            "fec_points": 20.688,
+            "fin_text": "T32",
+            "player_name": "Snedeker, Brandt"
+        },
+        {
+            "dg_id": 6252,
+            "dg_points": 0.4169,
+            "earnings": 52080,
+            "fec_points": 20.688,
+            "fin_text": "T32",
+            "player_name": "Baddeley, Aaron"
+        },
+        {
+            "dg_id": 14704,
+            "dg_points": 0.4169,
+            "earnings": 52080,
+            "fec_points": 20.688,
+            "fin_text": "T32",
+            "player_name": "Putnam, Andrew"
+        },
+        {
+            "dg_id": 24354,
+            "dg_points": 0.3566,
+            "earnings": 41385,
+            "fec_points": 15.5,
+            "fin_text": "T40",
+            "player_name": "Xiong, Norman"
+        },
+        {
+            "dg_id": 22535,
+            "dg_points": 0.3566,
+            "earnings": 41385,
+            "fec_points": 15.5,
+            "fin_text": "T40",
+            "player_name": "Norrman, Vincent"
+        },
+        {
+            "dg_id": 24342,
+            "dg_points": 0.3216,
+            "earnings": 33945,
+            "fec_points": 11.75,
+            "fin_text": "T42",
+            "player_name": "Higgo, Garrick"
+        },
+        {
+            "dg_id": 25003,
+            "dg_points": 0.3216,
+            "earnings": 33945,
+            "fec_points": 11.75,
+            "fin_text": "T42",
+            "player_name": "Walker, Danny"
+        },
+        {
+            "dg_id": 13508,
+            "dg_points": 0.3216,
+            "earnings": 33945,
+            "fec_points": 11.75,
+            "fin_text": "T42",
+            "player_name": "Vegas, Jhonattan"
+        },
+        {
+            "dg_id": 27183,
+            "dg_points": 0.3216,
+            "earnings": 33945,
+            "fec_points": 11.75,
+            "fin_text": "T42",
+            "player_name": "Salinda, Isaiah"
+        },
+        {
+            "dg_id": 15004,
+            "dg_points": 0.3216,
+            "earnings": 33945,
+            "fec_points": 11.75,
+            "fin_text": "T42",
+            "player_name": "Kim, Chan"
+        },
+        {
+            "dg_id": 23950,
+            "dg_points": 0.3216,
+            "earnings": 33945,
+            "fec_points": 11.75,
+            "fin_text": "T42",
+            "player_name": "Aberg, Ludvig"
+        },
+        {
+            "dg_id": 19840,
+            "dg_points": 0.215,
+            "earnings": 25482,
+            "fec_points": 8.75,
+            "fin_text": "T48",
+            "player_name": "Ramey, Chad"
+        },
+        {
+            "dg_id": 18770,
+            "dg_points": 0.215,
+            "earnings": 25482,
+            "fec_points": 8.75,
+            "fin_text": "T48",
+            "player_name": "Rozner, Antoine"
+        },
+        {
+            "dg_id": 23465,
+            "dg_points": 0.215,
+            "earnings": 25482,
+            "fec_points": 8.75,
+            "fin_text": "T48",
+            "player_name": "Greyserman, Max"
+        },
+        {
+            "dg_id": 6986,
+            "dg_points": 0.215,
+            "earnings": 25482,
+            "fec_points": 8.75,
+            "fin_text": "T48",
+            "player_name": "Johnson, Zach"
+        },
+        {
+            "dg_id": 28159,
+            "dg_points": 0.0,
+            "earnings": 22646,
+            "fec_points": 6.75,
+            "fin_text": "T52",
+            "player_name": "Meissner, Mac"
+        },
+        {
+            "dg_id": 23014,
+            "dg_points": 0.0,
+            "earnings": 22646,
+            "fec_points": 6.75,
+            "fin_text": "T52",
+            "player_name": "Theegala, Sahith"
+        },
+        {
+            "dg_id": 18634,
+            "dg_points": 0.0,
+            "earnings": 22646,
+            "fec_points": 6.75,
+            "fin_text": "T52",
+            "player_name": "McNealy, Maverick"
+        },
+        {
+            "dg_id": 13127,
+            "dg_points": 0.0,
+            "earnings": 22646,
+            "fec_points": 6.75,
+            "fin_text": "T52",
+            "player_name": "Tway, Kevin"
+        },
+        {
+            "dg_id": 27820,
+            "dg_points": 0.0,
+            "earnings": 21390,
+            "fec_points": 5.2,
+            "fin_text": "T56",
+            "player_name": "Pak, John"
+        },
+        {
+            "dg_id": 21412,
+            "dg_points": 0.0,
+            "earnings": 21390,
+            "fec_points": 5.2,
+            "fin_text": "T56",
+            "player_name": "Capan III, Frankie"
+        },
+        {
+            "dg_id": 16283,
+            "dg_points": 0.0,
+            "earnings": 21390,
+            "fec_points": 5.2,
+            "fin_text": "T56",
+            "player_name": "Rodgers, Patrick"
+        },
+        {
+            "dg_id": 29279,
+            "dg_points": 0.0,
+            "earnings": 21390,
+            "fec_points": 5.2,
+            "fin_text": "T56",
+            "player_name": "Suber, Jackson"
+        },
+        {
+            "dg_id": 21944,
+            "dg_points": 0.0,
+            "earnings": 21390,
+            "fec_points": 5.2,
+            "fin_text": "T56",
+            "player_name": "Moore, Taylor"
+        },
+        {
+            "dg_id": 7960,
+            "dg_points": 0.0,
+            "earnings": 21390,
+            "fec_points": 5.2,
+            "fin_text": "T56",
+            "player_name": "List, Luke"
+        },
+        {
+            "dg_id": 14140,
+            "dg_points": 0.0,
+            "earnings": 20553,
+            "fec_points": 4.2,
+            "fin_text": "T63",
+            "player_name": "Higgs, Harry"
+        },
+        {
+            "dg_id": 24837,
+            "dg_points": 0.0,
+            "earnings": 20553,
+            "fec_points": 4.2,
+            "fin_text": "T63",
+            "player_name": "Goodwin, Noah"
+        },
+        {
+            "dg_id": 26657,
+            "dg_points": 0.0,
+            "earnings": 20553,
+            "fec_points": 4.2,
+            "fin_text": "T63",
+            "player_name": "Fisk, Steven"
+        },
+        {
+            "dg_id": 29770,
+            "dg_points": 0.0,
+            "earnings": 20088,
+            "fec_points": 3.7,
+            "fin_text": "T66",
+            "player_name": "Mouw, William"
+        },
+        {
+            "dg_id": 17422,
+            "dg_points": 0.0,
+            "earnings": 20088,
+            "fec_points": 3.7,
+            "fin_text": "T66",
+            "player_name": "Del Solar, Cristobal"
+        },
+        {
+            "dg_id": 21756,
+            "dg_points": 0.0,
+            "earnings": 19716,
+            "fec_points": 3.3,
+            "fin_text": "T68",
+            "player_name": "Cole, Eric"
+        },
+        {
+            "dg_id": 16333,
+            "dg_points": 0.0,
+            "earnings": 19716,
+            "fec_points": 3.3,
+            "fin_text": "T68",
+            "player_name": "Hubbard, Mark"
+        },
+        {
+            "dg_id": 27164,
+            "dg_points": 0.0,
+            "earnings": 19437,
+            "fec_points": 3.0,
+            "fin_text": "70",
+            "player_name": "Phillips, Chandler"
+        },
+        {
+            "dg_id": 28309,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Coody, Pierceson"
+        },
+        {
+            "dg_id": 28635,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "McCarty, Matt"
+        },
+        {
+            "dg_id": 18554,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Rai, Aaron"
+        },
+        {
+            "dg_id": 11657,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Norlander, Henrik"
+        },
+        {
+            "dg_id": 23540,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Andersen, Mason"
+        },
+        {
+            "dg_id": 21549,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Mack III, Willie"
+        },
+        {
+            "dg_id": 33141,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "McCall, Cavin"
+        },
+        {
+            "dg_id": 32319,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "T56",
+            "player_name": "Koivun, Jackson"
+        },
+        {
+            "dg_id": 20730,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Perez, Victor"
+        },
+        {
+            "dg_id": 17538,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "WD",
+            "player_name": "Homa, Max"
+        },
+        {
+            "dg_id": 23505,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "WD",
+            "player_name": "McGreevy, Max"
+        },
+        {
+            "dg_id": 14698,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Bramlett, Joseph"
+        },
+        {
+            "dg_id": 17032,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Tosti, Alejandro"
+        },
+        {
+            "dg_id": 23504,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Hoey, Rico"
+        },
+        {
+            "dg_id": 14609,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Kim, Si Woo"
+        },
+        {
+            "dg_id": 19872,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Riley, Davis"
+        },
+        {
+            "dg_id": 13997,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Svensson, Adam"
+        },
+        {
+            "dg_id": 18761,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Mullinax, Trey"
+        },
+        {
+            "dg_id": 24550,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Ghim, Doug"
+        },
+        {
+            "dg_id": 21688,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Kim, S.H."
+        },
+        {
+            "dg_id": 24562,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "WD",
+            "player_name": "Knowles, Philip"
+        },
+        {
+            "dg_id": 21891,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Kitayama, Kurt"
+        },
+        {
+            "dg_id": 27996,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Cummins, Quade"
+        },
+        {
+            "dg_id": 21235,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Albertson, Anders"
+        },
+        {
+            "dg_id": 24968,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Griffin, Ben"
+        },
+        {
+            "dg_id": 26653,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Eckroat, Austin"
+        },
+        {
+            "dg_id": 12808,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "WD",
+            "player_name": "Grillo, Emiliano"
+        },
+        {
+            "dg_id": 6789,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Garrigus, Robert"
+        },
+        {
+            "dg_id": 19729,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Kanaya, Takumi"
+        },
+        {
+            "dg_id": 22736,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Rosenmueller, Thomas"
+        },
+        {
+            "dg_id": 25442,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Montgomery, Taylor"
+        },
+        {
+            "dg_id": 6093,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Rose, Justin"
+        },
+        {
+            "dg_id": 19865,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Hardy, Nick"
+        },
+        {
+            "dg_id": 9586,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Laird, Martin"
+        },
+        {
+            "dg_id": 15980,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "WD",
+            "player_name": "Lipsky, David"
+        },
+        {
+            "dg_id": 18105,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Lawrence, Thriston"
+        },
+        {
+            "dg_id": 21880,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Cone, Trevor"
+        },
+        {
+            "dg_id": 16394,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Jaeger, Stephan"
+        },
+        {
+            "dg_id": 27420,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Dickson, Taylor"
+        },
+        {
+            "dg_id": 25094,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Fishburn, Patrick"
+        },
+        {
+            "dg_id": 10873,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Skinns, David"
+        },
+        {
+            "dg_id": 10943,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "WD",
+            "player_name": "Lashley, Nate"
+        },
+        {
+            "dg_id": 14926,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Malnati, Peter"
+        },
+        {
+            "dg_id": 17881,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Yu, Kevin"
+        },
+        {
+            "dg_id": 23656,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Young, Carson"
+        },
+        {
+            "dg_id": 7820,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Palmer, Ryan"
+        },
+        {
+            "dg_id": 24303,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Reiter, Charles"
+        },
+        {
+            "dg_id": 9171,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Villegas, Camilo"
+        },
+        {
+            "dg_id": 30892,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Riedel, Matthew"
+        },
+        {
+            "dg_id": 11676,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Finau, Tony"
+        },
+        {
+            "dg_id": 25263,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Onishi, Kaito"
+        },
+        {
+            "dg_id": 25363,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "WD",
+            "player_name": "Buckley, Hayden"
+        },
+        {
+            "dg_id": 27762,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Velo, Kevin"
+        },
+        {
+            "dg_id": 17606,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Berger, Daniel"
+        },
+        {
+            "dg_id": 26124,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Korte, Chris"
+        },
+        {
+            "dg_id": 15676,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Norgaard, Niklas"
+        },
+        {
+            "dg_id": 22087,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Paul, Jeremy"
+        },
+        {
+            "dg_id": 17543,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Kim, Michael"
+        },
+        {
+            "dg_id": 26850,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Svensson, Jesper"
+        },
+        {
+            "dg_id": 28469,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Highsmith, Joe"
+        },
+        {
+            "dg_id": 16382,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Knous, Jim"
+        },
+        {
+            "dg_id": 19960,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Pavon, Matthieu"
+        },
+        {
+            "dg_id": 18424,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "WD",
+            "player_name": "Roy, Kevin"
+        },
+        {
+            "dg_id": 17723,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Lower, Justin"
+        },
+        {
+            "dg_id": 7305,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Gutschewski, Scott"
+        },
+        {
+            "dg_id": 21875,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Widing, Tim"
+        },
+        {
+            "dg_id": 17266,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Yuan, Carl"
+        },
+        {
+            "dg_id": 18628,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Campbell, Brian"
+        },
+        {
+            "dg_id": 17381,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Silverman, Ben"
+        },
+        {
+            "dg_id": 25002,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Wu, Dylan"
+        },
+        {
+            "dg_id": 26649,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Thorbjornsen, Michael"
+        },
+        {
+            "dg_id": 13367,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Merritt, Troy"
+        },
+        {
+            "dg_id": 19190,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Hoshino, Rikuya"
+        },
+        {
+            "dg_id": 16433,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "NeSmith, Matt"
+        },
+        {
+            "dg_id": 17550,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Van Rooyen, Erik"
+        },
+        {
+            "dg_id": 29433,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Bridgeman, Jacob"
+        },
+        {
+            "dg_id": 16341,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "WD",
+            "player_name": "Peterson, Paul"
+        },
+        {
+            "dg_id": 13900,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Lowry, Shane"
+        },
+        {
+            "dg_id": 7655,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Molinari, Francesco"
+        },
+        {
+            "dg_id": 31212,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Chandler, Will"
+        },
+        {
+            "dg_id": 20706,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Wallace, Matt"
+        },
+        {
+            "dg_id": 18474,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Smalley, Alex"
+        },
+        {
+            "dg_id": 12909,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Campos, Rafael"
+        },
+        {
+            "dg_id": 28630,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Hall, Ryan"
+        },
+        {
+            "dg_id": 22760,
+            "dg_points": 0.0,
+            "earnings": 0,
+            "fec_points": 0.0,
+            "fin_text": "CUT",
+            "player_name": "Hisatsune, Ryo"
+        }
+    ],
+    "season": 2025,
+    "tour": "pga",
+    "year": 2025
+}

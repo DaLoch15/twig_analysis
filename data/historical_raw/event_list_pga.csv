@@ -1,4 +1,5 @@
 calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
+2026,2026-02-08,3,WM Phoenix Open,yes,pga,yes
 2026,2026-02-01,4,Farmers Insurance Open,yes,pga,yes
 2026,2026-01-25,2,The American Express,yes,pga,yes
 2026,2026-01-18,6,Sony Open in Hawaii,yes,pga,yes
@@ -16,10 +17,10 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2025,2025-08-10,27,FedEx St. Jude Championship,yes,pga,yes
 2025,2025-08-03,13,Wyndham Championship,yes,pga,yes
 2025,2025-07-27,525,3M Open,yes,pga,yes
-2025,2025-07-20,100,The Open Championship,yes,pga,yes
 2025,2025-07-20,472,Barracuda Championship,no,pga,no
-2025,2025-07-13,518,ISCO Championship,yes,pga,yes
+2025,2025-07-20,100,The Open Championship,yes,pga,yes
 2025,2025-07-13,541,Genesis Scottish Open,yes,pga,yes
+2025,2025-07-13,518,ISCO Championship,yes,pga,yes
 2025,2025-07-06,30,John Deere Classic,yes,pga,yes
 2025,2025-06-29,524,Rocket Classic,yes,pga,yes
 2025,2025-06-22,34,Travelers Championship,yes,pga,yes
@@ -28,19 +29,19 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2025,2025-06-01,23,the Memorial Tournament presented by Workday,yes,pga,yes
 2025,2025-05-25,21,Charles Schwab Challenge,yes,pga,yes
 2025,2025-05-18,33,PGA Championship,yes,pga,yes
-2025,2025-05-11,480,Truist Championship,yes,pga,yes
 2025,2025-05-11,553,ONEflight Myrtle Beach Classic,yes,pga,yes
+2025,2025-05-11,480,Truist Championship,yes,pga,yes
 2025,2025-05-04,19,THE CJ CUP Byron Nelson,yes,pga,yes
 2025,2025-04-27,18,Zurich Classic of New Orleans,yes,pga,basic
-2025,2025-04-20,12,RBC Heritage,yes,pga,yes
 2025,2025-04-20,522,Corales Puntacana Championship,no,pga,basic
+2025,2025-04-20,12,RBC Heritage,yes,pga,yes
 2025,2025-04-13,14,Masters Tournament,yes,pga,yes
 2025,2025-04-06,41,Valero Texas Open,yes,pga,yes
 2025,2025-03-30,20,Texas Children's Houston Open,yes,pga,yes
 2025,2025-03-23,475,Valspar Championship,yes,pga,yes
 2025,2025-03-16,11,THE PLAYERS Championship,yes,pga,yes
-2025,2025-03-09,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes
 2025,2025-03-09,483,Puerto Rico Open,no,pga,basic
+2025,2025-03-09,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes
 2025,2025-03-02,10,Cognizant Classic in The Palm Beaches,yes,pga,yes
 2025,2025-02-23,540,Mexico Open at VidantaWorld,yes,pga,yes
 2025,2025-02-16,7,The Genesis Invitational,yes,pga,yes
@@ -68,8 +69,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2024,2024-07-28,525,3M Open,yes,pga,yes
 2024,2024-07-21,100,The Open Championship,yes,pga,yes
 2024,2024-07-21,472,Barracuda Championship,yes,pga,basic
-2024,2024-07-14,541,Genesis Scottish Open,yes,pga,yes
 2024,2024-07-14,518,ISCO Championship,yes,pga,yes
+2024,2024-07-14,541,Genesis Scottish Open,yes,pga,yes
 2024,2024-07-07,30,John Deere Classic,yes,pga,yes
 2024,2024-06-30,524,Rocket Mortgage Classic,yes,pga,yes
 2024,2024-06-23,34,Travelers Championship,yes,pga,yes
@@ -78,11 +79,11 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2024,2024-06-02,32,RBC Canadian Open,yes,pga,yes
 2024,2024-05-26,21,Charles Schwab Challenge,yes,pga,yes
 2024,2024-05-19,33,PGA Championship,yes,pga,yes
-2024,2024-05-12,480,Wells Fargo Championship,yes,pga,yes
 2024,2024-05-12,553,Myrtle Beach Classic,yes,pga,yes
+2024,2024-05-12,480,Wells Fargo Championship,yes,pga,yes
 2024,2024-05-05,19,THE CJ CUP Byron Nelson,yes,pga,yes
-2024,2024-04-21,12,RBC Heritage,yes,pga,yes
 2024,2024-04-21,522,Corales Puntacana Championship,no,pga,basic
+2024,2024-04-21,12,RBC Heritage,yes,pga,yes
 2024,2024-04-14,14,Masters Tournament,yes,pga,yes
 2024,2024-04-07,41,Valero Texas Open,yes,pga,yes
 2024,2024-03-31,20,Texas Children's Houston Open,yes,pga,yes
@@ -113,10 +114,10 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2023,2023-08-13,27,FedEx St. Jude Championship,yes,pga,yes
 2023,2023-08-06,13,Wyndham Championship,yes,pga,yes
 2023,2023-07-30,525,3M Open,yes,pga,yes
-2023,2023-07-23,472,Barracuda Championship,no,pga,basic
 2023,2023-07-23,100,The Open Championship,yes,pga,yes
-2023,2023-07-16,518,Barbasol Championship,yes,pga,yes
+2023,2023-07-23,472,Barracuda Championship,no,pga,basic
 2023,2023-07-16,541,Genesis Scottish Open,yes,pga,yes
+2023,2023-07-16,518,Barbasol Championship,yes,pga,yes
 2023,2023-07-09,30,John Deere Classic,yes,pga,yes
 2023,2023-07-02,524,Rocket Mortgage Classic,yes,pga,yes
 2023,2023-06-25,34,Travelers Championship,yes,pga,yes
@@ -135,8 +136,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2023,2023-03-26,522,Corales Puntacana Championship,no,pga,basic
 2023,2023-03-19,475,Valspar Championship,yes,pga,yes
 2023,2023-03-12,11,THE PLAYERS Championship,yes,pga,yes
-2023,2023-03-05,483,Puerto Rico Open,no,pga,basic
 2023,2023-03-05,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes
+2023,2023-03-05,483,Puerto Rico Open,no,pga,basic
 2023,2023-02-26,10,The Honda Classic,yes,pga,yes
 2023,2023-02-19,7,The Genesis Invitational,yes,pga,yes
 2023,2023-02-12,3,WM Phoenix Open,yes,pga,yes
@@ -161,10 +162,10 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2022,2022-08-07,13,Wyndham Championship,yes,pga,yes
 2022,2022-07-31,524,Rocket Mortgage Classic,yes,pga,yes
 2022,2022-07-24,525,3M Open,yes,pga,yes
-2022,2022-07-17,100,The Open Championship,yes,pga,yes
 2022,2022-07-17,472,Barracuda Championship,no,pga,basic
-2022,2022-07-10,518,Barbasol Championship,yes,pga,yes
+2022,2022-07-17,100,The Open Championship,yes,pga,yes
 2022,2022-07-10,541,Genesis Scottish Open,yes,pga,yes
+2022,2022-07-10,518,Barbasol Championship,yes,pga,yes
 2022,2022-07-03,30,John Deere Classic,yes,pga,yes
 2022,2022-06-26,34,Travelers Championship,yes,pga,yes
 2022,2022-06-19,26,U.S. Open,yes,pga,basic
@@ -181,8 +182,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2022,2022-03-27,522,Corales Puntacana Championship,no,pga,basic
 2022,2022-03-20,475,Valspar Championship,yes,pga,yes
 2022,2022-03-13,11,THE PLAYERS Championship,yes,pga,yes
-2022,2022-03-06,483,Puerto Rico Open,no,pga,basic
 2022,2022-03-06,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes
+2022,2022-03-06,483,Puerto Rico Open,no,pga,basic
 2022,2022-02-27,10,The Honda Classic,yes,pga,yes
 2022,2022-02-20,7,The Genesis Invitational,yes,pga,yes
 2022,2022-02-13,3,WM Phoenix Open,yes,pga,yes
@@ -205,12 +206,12 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2021,2021-08-29,28,BMW Championship,yes,pga,yes
 2021,2021-08-22,27,THE NORTHERN TRUST,yes,pga,yes
 2021,2021-08-15,13,Wyndham Championship,yes,pga,yes
-2021,2021-08-08,472,Barracuda Championship,no,pga,no
 2021,2021-08-08,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes
+2021,2021-08-08,472,Barracuda Championship,no,pga,no
 2021,2021-08-01,519,Olympic Men's Golf Competition,yes,pga,basic
 2021,2021-07-25,525,3M Open,yes,pga,yes
-2021,2021-07-18,518,Barbasol Championship,yes,pga,yes
 2021,2021-07-18,100,The Open Championship,no,pga,no
+2021,2021-07-18,518,Barbasol Championship,yes,pga,yes
 2021,2021-07-11,30,John Deere Classic,yes,pga,yes
 2021,2021-07-04,524,Rocket Mortgage Classic,yes,pga,yes
 2021,2021-06-27,34,Travelers Championship,yes,pga,yes
@@ -229,8 +230,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2021,2021-03-21,10,The Honda Classic,yes,pga,yes
 2021,2021-03-14,11,THE PLAYERS Championship,yes,pga,yes
 2021,2021-03-07,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes
-2021,2021-02-28,483,Puerto Rico Open,no,pga,basic
 2021,2021-02-28,473,World Golf Championships-Workday Championship at The Concession,yes,pga,yes
+2021,2021-02-28,483,Puerto Rico Open,no,pga,basic
 2021,2021-02-21,7,The Genesis Invitational,yes,pga,yes
 2021,2021-02-14,5,AT&T Pebble Beach Pro-Am,partial,pga,partial
 2021,2021-02-07,3,Waste Management Phoenix Open,yes,pga,yes
@@ -267,8 +268,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2020,2020-03-15,11,THE PLAYERS Championship,yes,pga,basic
 2020,2020-03-08,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes
 2020,2020-03-01,10,The Honda Classic,yes,pga,yes
-2020,2020-02-23,483,Puerto Rico Open,no,pga,basic
 2020,2020-02-23,473,World Golf Championships-Mexico Championship,yes,pga,yes
+2020,2020-02-23,483,Puerto Rico Open,no,pga,basic
 2020,2020-02-16,7,The Genesis Invitational,yes,pga,yes
 2020,2020-02-09,5,AT&T Pebble Beach Pro-Am,partial,pga,partial
 2020,2020-02-02,3,Waste Management Phoenix Open,yes,pga,yes
@@ -279,8 +280,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2019,2019-12-07,478,Hero World Challenge,no,pga,basic
 2019,2019-11-24,493,The RSM Classic,partial,pga,partial
 2019,2019-11-17,457,Mayakoba Golf Classic,no,pga,basic
-2019,2019-11-03,528,Bermuda Championship,no,pga,basic
 2019,2019-11-03,489,World Golf Championships-HSBC Champions,no,pga,basic
+2019,2019-11-03,528,Bermuda Championship,no,pga,basic
 2019,2019-10-27,527,ZOZO CHAMPIONSHIP,no,pga,basic
 2019,2019-10-20,521,THE CJ CUP @ NINE BRIDGES,no,pga,basic
 2019,2019-10-13,20,Houston Open,yes,pga,yes
@@ -292,10 +293,10 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2019,2019-08-18,28,BMW Championship,yes,pga,yes
 2019,2019-08-11,27,THE NORTHERN TRUST,yes,pga,yes
 2019,2019-08-04,13,Wyndham Championship,yes,pga,yes
-2019,2019-07-28,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes
 2019,2019-07-28,472,Barracuda Championship,yes,pga,basic
-2019,2019-07-21,100,The Open Championship,no,pga,basic
+2019,2019-07-28,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes
 2019,2019-07-21,518,Barbasol Championship,yes,pga,yes
+2019,2019-07-21,100,The Open Championship,no,pga,basic
 2019,2019-07-14,30,John Deere Classic,yes,pga,yes
 2019,2019-07-07,525,3M Open,yes,pga,yes
 2019,2019-06-30,524,Rocket Mortgage Classic,yes,pga,yes
@@ -315,8 +316,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2019,2019-03-17,11,THE PLAYERS Championship,yes,pga,yes
 2019,2019-03-10,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes
 2019,2019-03-03,10,The Honda Classic,yes,pga,yes
-2019,2019-02-24,473,World Golf Championships-Mexico Championship,yes,pga,yes
 2019,2019-02-24,483,Puerto Rico Open,no,pga,basic
+2019,2019-02-24,473,World Golf Championships-Mexico Championship,yes,pga,yes
 2019,2019-02-17,7,Genesis Open,yes,pga,yes
 2019,2019-02-10,5,AT&T Pebble Beach Pro-Am,partial,pga,partial
 2019,2019-02-03,3,Waste Management Phoenix Open,yes,pga,yes
@@ -328,8 +329,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2018,2018-11-18,493,The RSM Classic,partial,pga,partial
 2018,2018-11-11,457,Mayakoba Golf Classic,no,pga,basic
 2018,2018-11-04,47,Shriners Hospitals for Children Open,yes,pga,yes
-2018,2018-10-28,54,Sanderson Farms Championship,yes,pga,yes
 2018,2018-10-28,489,World Golf Championships-HSBC Champions,no,pga,basic
+2018,2018-10-28,54,Sanderson Farms Championship,yes,pga,yes
 2018,2018-10-21,521,THE CJ CUP @ NINE BRIDGES,no,pga,basic
 2018,2018-10-14,494,CIMB Classic,no,pga,basic
 2018,2018-10-07,464,Safeway Open,yes,pga,yes
@@ -341,8 +342,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2018,2018-08-12,33,PGA Championship,yes,pga,yes
 2018,2018-08-05,476,World Golf Championships-Bridgestone Invitational,yes,pga,yes
 2018,2018-07-29,32,RBC Canadian Open,yes,pga,yes
-2018,2018-07-22,518,Barbasol Championship,yes,pga,yes
 2018,2018-07-22,100,The Open Championship,no,pga,no
+2018,2018-07-22,518,Barbasol Championship,yes,pga,yes
 2018,2018-07-15,30,John Deere Classic,yes,pga,yes
 2018,2018-07-08,490,A Military Tribute at The Greenbrier,yes,pga,yes
 2018,2018-07-01,471,Quicken Loans National,yes,pga,yes
@@ -387,8 +388,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2017,2017-08-13,33,PGA Championship,yes,pga,yes
 2017,2017-08-06,476,World Golf Championships-Bridgestone Invitational,yes,pga,yes
 2017,2017-07-30,32,RBC Canadian Open,yes,pga,yes
-2017,2017-07-23,518,Barbasol Championship,yes,pga,yes
 2017,2017-07-23,100,The Open Championship,no,pga,no
+2017,2017-07-23,518,Barbasol Championship,yes,pga,yes
 2017,2017-07-16,30,John Deere Classic,yes,pga,yes
 2017,2017-07-09,490,The Greenbrier Classic,yes,pga,yes
 2017,2017-07-02,471,Quicken Loans National,yes,pga,yes
@@ -463,8 +464,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2015,2015-12-06,478,Hero World Challenge,no,pga,no
 2015,2015-11-22,493,The RSM Classic,partial,pga,partial
 2015,2015-11-15,457,OHL Classic at Mayakoba,no,pga,basic
-2015,2015-11-08,54,Sanderson Farms Championship,yes,pga,yes
 2015,2015-11-08,489,World Golf Championships-HSBC Champions,no,pga,basic
+2015,2015-11-08,54,Sanderson Farms Championship,yes,pga,yes
 2015,2015-11-01,494,CIMB Classic,no,pga,basic
 2015,2015-10-25,47,Shriners Hospitals for Children Open,yes,pga,yes
 2015,2015-10-18,464,Frys.com Open,yes,pga,yes
@@ -507,8 +508,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2015,2015-01-12,16,Hyundai Tournament of Champions,yes,pga,yes
 2014,2014-12-07,478,Hero World Challenge,no,pga,no
 2014,2014-11-16,457,OHL Classic at Mayakoba,no,pga,basic
-2014,2014-11-09,489,World Golf Championships-HSBC Champions,no,pga,basic
 2014,2014-11-09,54,Sanderson Farms Championship,yes,pga,yes
+2014,2014-11-09,489,World Golf Championships-HSBC Champions,no,pga,basic
 2014,2014-11-02,494,CIMB Classic,no,pga,basic
 2014,2014-10-26,493,The McGladrey Classic,yes,pga,yes
 2014,2014-10-19,47,Shriners Hospitals for Children Open,yes,pga,yes
@@ -564,8 +565,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2013,2013-08-11,33,PGA Championship,no,pga,no
 2013,2013-08-04,476,World Golf Championships-Bridgestone Invitational,yes,pga,basic
 2013,2013-07-28,32,RBC Canadian Open,yes,pga,basic
-2013,2013-07-21,100,The Open Championship,no,pga,no
 2013,2013-07-21,54,Sanderson Farms Championship,yes,pga,basic
+2013,2013-07-21,100,The Open Championship,no,pga,no
 2013,2013-07-14,30,John Deere Classic,yes,pga,basic
 2013,2013-07-07,490,The Greenbrier Classic,yes,pga,basic
 2013,2013-06-30,471,AT&T National,yes,pga,basic
@@ -583,8 +584,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2013,2013-03-31,20,Shell Houston Open,yes,pga,basic
 2013,2013-03-24,9,Arnold Palmer Invitational presented by MasterCard,yes,pga,basic
 2013,2013-03-17,475,Tampa Bay Championship presented by EverBank,yes,pga,basic
-2013,2013-03-10,473,World Golf Championships-Cadillac Championship,yes,pga,basic
 2013,2013-03-10,483,Puerto Rico Open presented by seepuertorico.com,no,pga,no
+2013,2013-03-10,473,World Golf Championships-Cadillac Championship,yes,pga,basic
 2013,2013-03-03,10,The Honda Classic,yes,pga,basic
 2013,2013-02-17,7,Northern Trust Open,yes,pga,basic
 2013,2013-02-10,5,AT&T Pebble Beach National Pro-Am,partial,pga,basic
@@ -624,8 +625,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2012,2012-04-01,20,Shell Houston Open,yes,pga,basic
 2012,2012-03-25,9,Arnold Palmer Invitational presented by MasterCard,yes,pga,basic
 2012,2012-03-18,475,Transitions Championship,yes,pga,basic
-2012,2012-03-11,473,World Golf Championships-Cadillac Championship,yes,pga,basic
 2012,2012-03-11,483,Puerto Rico Open presented by seepuertorico.com,no,pga,no
+2012,2012-03-11,473,World Golf Championships-Cadillac Championship,yes,pga,basic
 2012,2012-03-04,10,The Honda Classic,yes,pga,basic
 2012,2012-02-26,457,Mayakoba Golf Classic,no,pga,no
 2012,2012-02-19,7,Northern Trust Open,yes,pga,basic
@@ -648,8 +649,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2011,2011-08-07,476,World Golf Championships-Bridgestone Invitational,yes,pga,basic
 2011,2011-07-31,490,The Greenbrier Classic,yes,pga,basic
 2011,2011-07-24,32,RBC Canadian Open,yes,pga,basic
-2011,2011-07-17,100,The Open Championship,no,pga,no
 2011,2011-07-17,54,Viking Classic,yes,pga,basic
+2011,2011-07-17,100,The Open Championship,no,pga,no
 2011,2011-07-10,30,John Deere Classic,yes,pga,basic
 2011,2011-07-03,471,AT&T National,yes,pga,basic
 2011,2011-06-26,34,Travelers Championship,yes,pga,basic
@@ -666,8 +667,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2011,2011-04-03,20,Shell Houston Open,yes,pga,basic
 2011,2011-03-27,9,Arnold Palmer Invitational presented by MasterCard,yes,pga,basic
 2011,2011-03-20,475,Transitions Championship,yes,pga,basic
-2011,2011-03-13,483,Puerto Rico Open presented by seepuertorico.com,no,pga,no
 2011,2011-03-13,473,World Golf Championships-Cadillac Championship,yes,pga,basic
+2011,2011-03-13,483,Puerto Rico Open presented by seepuertorico.com,no,pga,no
 2011,2011-03-06,10,The Honda Classic,yes,pga,basic
 2011,2011-02-27,457,Mayakoba Golf Classic at Riviera Maya-Cancun,no,pga,no
 2011,2011-02-20,7,Northern Trust Open,yes,pga,basic
@@ -785,8 +786,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2008,2008-04-20,12,Verizon Heritage,yes,pga,basic
 2008,2008-04-13,14,Masters Tournament,no,pga,no
 2008,2008-04-06,20,Shell Houston Open,yes,pga,basic
-2008,2008-03-23,473,World Golf Championships-CA Championship,yes,pga,basic
 2008,2008-03-23,483,Puerto Rico Open presented by Banco Popular,no,pga,no
+2008,2008-03-23,473,World Golf Championships-CA Championship,yes,pga,basic
 2008,2008-03-16,9,Arnold Palmer Invitational presented by MasterCard,yes,pga,basic
 2008,2008-03-09,475,PODS Championship,yes,pga,basic
 2008,2008-03-02,10,The Honda Classic,yes,pga,basic
@@ -842,8 +843,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2006,2006-10-29,475,Chrysler Championship,yes,pga,basic
 2006,2006-10-15,47,Frys.com Open,partial,pga,basic
 2006,2006-10-08,13,Chrysler Classic of Greensboro,yes,pga,basic
-2006,2006-10-01,54,Southern Farm Bureau Classic,yes,pga,basic
 2006,2006-10-01,473,World Golf Championships-American Express Championship,yes,pga,basic
+2006,2006-10-01,54,Southern Farm Bureau Classic,yes,pga,basic
 2006,2006-09-24,41,Valero Texas Open,yes,pga,basic
 2006,2006-09-10,32,Canadian Open,yes,pga,basic
 2006,2006-09-04,505,Deutsche Bank Championship,yes,pga,basic
@@ -874,8 +875,8 @@ calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats
 2006,2006-01-15,6,Sony Open in Hawaii,yes,pga,basic
 2006,2006-01-08,16,Mercedes Championships,yes,pga,basic
 2005,2005-12-11,478,Target World Challenge presented by Countrywide,no,pga,no
-2005,2005-11-06,54,Southern Farm Bureau Classic,yes,pga,basic
 2005,2005-11-06,60,THE TOUR Championship presented by Coca-Cola,yes,pga,basic
+2005,2005-11-06,54,Southern Farm Bureau Classic,yes,pga,basic
 2005,2005-10-30,475,Chrysler Championship,yes,pga,basic
 2005,2005-10-16,47,Michelin Championship at Las Vegas,partial,pga,basic
 2005,2005-10-09,473,World Golf Championships-American Express Championship,yes,pga,basic

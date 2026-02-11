@@ -1,4 +1,5 @@
 calendar_year,date,event_id,event_name,tour
+2026,2026-02-08,3,WM Phoenix Open,pga
 2026,2026-02-01,4,Farmers Insurance Open,pga
 2026,2026-01-25,2,The American Express,pga
 2026,2026-01-18,6,Sony Open in Hawaii,pga
@@ -14,8 +15,8 @@ calendar_year,date,event_id,event_name,tour
 2025,2025-08-10,27,FedEx St. Jude Championship,pga
 2025,2025-08-03,13,Wyndham Championship,pga
 2025,2025-07-27,525,3M Open,pga
-2025,2025-07-20,100,The Open Championship,pga
 2025,2025-07-20,472,Barracuda Championship,pga
+2025,2025-07-20,100,The Open Championship,pga
 2025,2025-07-13,518,ISCO Championship,pga
 2025,2025-07-13,541,Genesis Scottish Open,pga
 2025,2025-07-06,30,John Deere Classic,pga
@@ -26,8 +27,8 @@ calendar_year,date,event_id,event_name,tour
 2025,2025-06-01,23,the Memorial Tournament presented by Workday,pga
 2025,2025-05-25,21,Charles Schwab Challenge,pga
 2025,2025-05-18,33,PGA Championship,pga
-2025,2025-05-11,480,Truist Championship,pga
 2025,2025-05-11,553,ONEflight Myrtle Beach Classic,pga
+2025,2025-05-11,480,Truist Championship,pga
 2025,2025-05-04,19,THE CJ CUP Byron Nelson,pga
 2025,2025-04-27,18,Zurich Classic of New Orleans,pga
 2025,2025-04-20,12,RBC Heritage,pga

@@ -1,6 +1,15 @@
 [
     {
         "calendar_year": 2026,
+        "date": "2026-02-08",
+        "event_id": 3,
+        "event_name": "WM Phoenix Open",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2026,
         "date": "2026-02-01",
         "event_id": 4,
         "event_name": "Farmers Insurance Open",
@@ -155,15 +164,6 @@
     {
         "calendar_year": 2025,
         "date": "2025-07-20",
-        "event_id": 100,
-        "event_name": "The Open Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2025,
-        "date": "2025-07-20",
         "event_id": 472,
         "event_name": "Barracuda Championship",
         "sg_categories": "no",
@@ -172,9 +172,9 @@
     },
     {
         "calendar_year": 2025,
-        "date": "2025-07-13",
-        "event_id": 518,
-        "event_name": "ISCO Championship",
+        "date": "2025-07-20",
+        "event_id": 100,
+        "event_name": "The Open Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -184,6 +184,15 @@
         "date": "2025-07-13",
         "event_id": 541,
         "event_name": "Genesis Scottish Open",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2025,
+        "date": "2025-07-13",
+        "event_id": 518,
+        "event_name": "ISCO Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -263,8 +272,8 @@
     {
         "calendar_year": 2025,
         "date": "2025-05-11",
-        "event_id": 480,
-        "event_name": "Truist Championship",
+        "event_id": 553,
+        "event_name": "ONEflight Myrtle Beach Classic",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -272,8 +281,8 @@
     {
         "calendar_year": 2025,
         "date": "2025-05-11",
-        "event_id": 553,
-        "event_name": "ONEflight Myrtle Beach Classic",
+        "event_id": 480,
+        "event_name": "Truist Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -299,20 +308,20 @@
     {
         "calendar_year": 2025,
         "date": "2025-04-20",
-        "event_id": 12,
-        "event_name": "RBC Heritage",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2025,
-        "date": "2025-04-20",
         "event_id": 522,
         "event_name": "Corales Puntacana Championship",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "basic"
+    },
+    {
+        "calendar_year": 2025,
+        "date": "2025-04-20",
+        "event_id": 12,
+        "event_name": "RBC Heritage",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2025,
@@ -362,20 +371,20 @@
     {
         "calendar_year": 2025,
         "date": "2025-03-09",
-        "event_id": 9,
-        "event_name": "Arnold Palmer Invitational presented by Mastercard",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2025,
-        "date": "2025-03-09",
         "event_id": 483,
         "event_name": "Puerto Rico Open",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "basic"
+    },
+    {
+        "calendar_year": 2025,
+        "date": "2025-03-09",
+        "event_id": 9,
+        "event_name": "Arnold Palmer Invitational presented by Mastercard",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2025,
@@ -623,8 +632,8 @@
     {
         "calendar_year": 2024,
         "date": "2024-07-14",
-        "event_id": 541,
-        "event_name": "Genesis Scottish Open",
+        "event_id": 518,
+        "event_name": "ISCO Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -632,8 +641,8 @@
     {
         "calendar_year": 2024,
         "date": "2024-07-14",
-        "event_id": 518,
-        "event_name": "ISCO Championship",
+        "event_id": 541,
+        "event_name": "Genesis Scottish Open",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -713,8 +722,8 @@
     {
         "calendar_year": 2024,
         "date": "2024-05-12",
-        "event_id": 480,
-        "event_name": "Wells Fargo Championship",
+        "event_id": 553,
+        "event_name": "Myrtle Beach Classic",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -722,8 +731,8 @@
     {
         "calendar_year": 2024,
         "date": "2024-05-12",
-        "event_id": 553,
-        "event_name": "Myrtle Beach Classic",
+        "event_id": 480,
+        "event_name": "Wells Fargo Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -740,20 +749,20 @@
     {
         "calendar_year": 2024,
         "date": "2024-04-21",
-        "event_id": 12,
-        "event_name": "RBC Heritage",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2024,
-        "date": "2024-04-21",
         "event_id": 522,
         "event_name": "Corales Puntacana Championship",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "basic"
+    },
+    {
+        "calendar_year": 2024,
+        "date": "2024-04-21",
+        "event_id": 12,
+        "event_name": "RBC Heritage",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2024,
@@ -1028,6 +1037,15 @@
     {
         "calendar_year": 2023,
         "date": "2023-07-23",
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2023,
+        "date": "2023-07-23",
         "event_id": 472,
         "event_name": "Barracuda Championship",
         "sg_categories": "no",
@@ -1036,9 +1054,9 @@
     },
     {
         "calendar_year": 2023,
-        "date": "2023-07-23",
-        "event_id": 100,
-        "event_name": "The Open Championship",
+        "date": "2023-07-16",
+        "event_id": 541,
+        "event_name": "Genesis Scottish Open",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -1048,15 +1066,6 @@
         "date": "2023-07-16",
         "event_id": 518,
         "event_name": "Barbasol Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2023,
-        "date": "2023-07-16",
-        "event_id": 541,
-        "event_name": "Genesis Scottish Open",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -1226,20 +1235,20 @@
     {
         "calendar_year": 2023,
         "date": "2023-03-05",
-        "event_id": 483,
-        "event_name": "Puerto Rico Open",
-        "sg_categories": "no",
-        "tour": "pga",
-        "traditional_stats": "basic"
-    },
-    {
-        "calendar_year": 2023,
-        "date": "2023-03-05",
         "event_id": 9,
         "event_name": "Arnold Palmer Invitational presented by Mastercard",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2023,
+        "date": "2023-03-05",
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "basic"
     },
     {
         "calendar_year": 2023,
@@ -1460,15 +1469,6 @@
     {
         "calendar_year": 2022,
         "date": "2022-07-17",
-        "event_id": 100,
-        "event_name": "The Open Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2022,
-        "date": "2022-07-17",
         "event_id": 472,
         "event_name": "Barracuda Championship",
         "sg_categories": "no",
@@ -1477,9 +1477,9 @@
     },
     {
         "calendar_year": 2022,
-        "date": "2022-07-10",
-        "event_id": 518,
-        "event_name": "Barbasol Championship",
+        "date": "2022-07-17",
+        "event_id": 100,
+        "event_name": "The Open Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -1489,6 +1489,15 @@
         "date": "2022-07-10",
         "event_id": 541,
         "event_name": "Genesis Scottish Open",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2022,
+        "date": "2022-07-10",
+        "event_id": 518,
+        "event_name": "Barbasol Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
@@ -1640,20 +1649,20 @@
     {
         "calendar_year": 2022,
         "date": "2022-03-06",
-        "event_id": 483,
-        "event_name": "Puerto Rico Open",
-        "sg_categories": "no",
-        "tour": "pga",
-        "traditional_stats": "basic"
-    },
-    {
-        "calendar_year": 2022,
-        "date": "2022-03-06",
         "event_id": 9,
         "event_name": "Arnold Palmer Invitational presented by Mastercard",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2022,
+        "date": "2022-03-06",
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "basic"
     },
     {
         "calendar_year": 2022,
@@ -1856,20 +1865,20 @@
     {
         "calendar_year": 2021,
         "date": "2021-08-08",
-        "event_id": 472,
-        "event_name": "Barracuda Championship",
-        "sg_categories": "no",
-        "tour": "pga",
-        "traditional_stats": "no"
-    },
-    {
-        "calendar_year": 2021,
-        "date": "2021-08-08",
         "event_id": 476,
         "event_name": "World Golf Championships-FedEx St. Jude Invitational",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2021,
+        "date": "2021-08-08",
+        "event_id": 472,
+        "event_name": "Barracuda Championship",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "no"
     },
     {
         "calendar_year": 2021,
@@ -1892,20 +1901,20 @@
     {
         "calendar_year": 2021,
         "date": "2021-07-18",
-        "event_id": 518,
-        "event_name": "Barbasol Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2021,
-        "date": "2021-07-18",
         "event_id": 100,
         "event_name": "The Open Championship",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "no"
+    },
+    {
+        "calendar_year": 2021,
+        "date": "2021-07-18",
+        "event_id": 518,
+        "event_name": "Barbasol Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2021,
@@ -2072,20 +2081,20 @@
     {
         "calendar_year": 2021,
         "date": "2021-02-28",
-        "event_id": 483,
-        "event_name": "Puerto Rico Open",
-        "sg_categories": "no",
-        "tour": "pga",
-        "traditional_stats": "basic"
-    },
-    {
-        "calendar_year": 2021,
-        "date": "2021-02-28",
         "event_id": 473,
         "event_name": "World Golf Championships-Workday Championship at The Concession",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2021,
+        "date": "2021-02-28",
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "basic"
     },
     {
         "calendar_year": 2021,
@@ -2414,20 +2423,20 @@
     {
         "calendar_year": 2020,
         "date": "2020-02-23",
-        "event_id": 483,
-        "event_name": "Puerto Rico Open",
-        "sg_categories": "no",
-        "tour": "pga",
-        "traditional_stats": "basic"
-    },
-    {
-        "calendar_year": 2020,
-        "date": "2020-02-23",
         "event_id": 473,
         "event_name": "World Golf Championships-Mexico Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2020,
+        "date": "2020-02-23",
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "basic"
     },
     {
         "calendar_year": 2020,
@@ -2522,8 +2531,8 @@
     {
         "calendar_year": 2019,
         "date": "2019-11-03",
-        "event_id": 528,
-        "event_name": "Bermuda Championship",
+        "event_id": 489,
+        "event_name": "World Golf Championships-HSBC Champions",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "basic"
@@ -2531,8 +2540,8 @@
     {
         "calendar_year": 2019,
         "date": "2019-11-03",
-        "event_id": 489,
-        "event_name": "World Golf Championships-HSBC Champions",
+        "event_id": 528,
+        "event_name": "Bermuda Championship",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "basic"
@@ -2639,15 +2648,6 @@
     {
         "calendar_year": 2019,
         "date": "2019-07-28",
-        "event_id": 476,
-        "event_name": "World Golf Championships-FedEx St. Jude Invitational",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2019,
-        "date": "2019-07-28",
         "event_id": 472,
         "event_name": "Barracuda Championship",
         "sg_categories": "yes",
@@ -2656,12 +2656,12 @@
     },
     {
         "calendar_year": 2019,
-        "date": "2019-07-21",
-        "event_id": 100,
-        "event_name": "The Open Championship",
-        "sg_categories": "no",
+        "date": "2019-07-28",
+        "event_id": 476,
+        "event_name": "World Golf Championships-FedEx St. Jude Invitational",
+        "sg_categories": "yes",
         "tour": "pga",
-        "traditional_stats": "basic"
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2019,
@@ -2671,6 +2671,15 @@
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2019,
+        "date": "2019-07-21",
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "basic"
     },
     {
         "calendar_year": 2019,
@@ -2846,20 +2855,20 @@
     {
         "calendar_year": 2019,
         "date": "2019-02-24",
-        "event_id": 473,
-        "event_name": "World Golf Championships-Mexico Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2019,
-        "date": "2019-02-24",
         "event_id": 483,
         "event_name": "Puerto Rico Open",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "basic"
+    },
+    {
+        "calendar_year": 2019,
+        "date": "2019-02-24",
+        "event_id": 473,
+        "event_name": "World Golf Championships-Mexico Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2019,
@@ -2963,20 +2972,20 @@
     {
         "calendar_year": 2018,
         "date": "2018-10-28",
-        "event_id": 54,
-        "event_name": "Sanderson Farms Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2018,
-        "date": "2018-10-28",
         "event_id": 489,
         "event_name": "World Golf Championships-HSBC Champions",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "basic"
+    },
+    {
+        "calendar_year": 2018,
+        "date": "2018-10-28",
+        "event_id": 54,
+        "event_name": "Sanderson Farms Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2018,
@@ -3080,20 +3089,20 @@
     {
         "calendar_year": 2018,
         "date": "2018-07-22",
-        "event_id": 518,
-        "event_name": "Barbasol Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2018,
-        "date": "2018-07-22",
         "event_id": 100,
         "event_name": "The Open Championship",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "no"
+    },
+    {
+        "calendar_year": 2018,
+        "date": "2018-07-22",
+        "event_id": 518,
+        "event_name": "Barbasol Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2018,
@@ -3494,20 +3503,20 @@
     {
         "calendar_year": 2017,
         "date": "2017-07-23",
-        "event_id": 518,
-        "event_name": "Barbasol Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2017,
-        "date": "2017-07-23",
         "event_id": 100,
         "event_name": "The Open Championship",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "no"
+    },
+    {
+        "calendar_year": 2017,
+        "date": "2017-07-23",
+        "event_id": 518,
+        "event_name": "Barbasol Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2017,
@@ -4178,20 +4187,20 @@
     {
         "calendar_year": 2015,
         "date": "2015-11-08",
-        "event_id": 54,
-        "event_name": "Sanderson Farms Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "yes"
-    },
-    {
-        "calendar_year": 2015,
-        "date": "2015-11-08",
         "event_id": 489,
         "event_name": "World Golf Championships-HSBC Champions",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "basic"
+    },
+    {
+        "calendar_year": 2015,
+        "date": "2015-11-08",
+        "event_id": 54,
+        "event_name": "Sanderson Farms Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "yes"
     },
     {
         "calendar_year": 2015,
@@ -4574,20 +4583,20 @@
     {
         "calendar_year": 2014,
         "date": "2014-11-09",
-        "event_id": 489,
-        "event_name": "World Golf Championships-HSBC Champions",
-        "sg_categories": "no",
-        "tour": "pga",
-        "traditional_stats": "basic"
-    },
-    {
-        "calendar_year": 2014,
-        "date": "2014-11-09",
         "event_id": 54,
         "event_name": "Sanderson Farms Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "yes"
+    },
+    {
+        "calendar_year": 2014,
+        "date": "2014-11-09",
+        "event_id": 489,
+        "event_name": "World Golf Championships-HSBC Champions",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "basic"
     },
     {
         "calendar_year": 2014,
@@ -5087,20 +5096,20 @@
     {
         "calendar_year": 2013,
         "date": "2013-07-21",
-        "event_id": 100,
-        "event_name": "The Open Championship",
-        "sg_categories": "no",
-        "tour": "pga",
-        "traditional_stats": "no"
-    },
-    {
-        "calendar_year": 2013,
-        "date": "2013-07-21",
         "event_id": 54,
         "event_name": "Sanderson Farms Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "basic"
+    },
+    {
+        "calendar_year": 2013,
+        "date": "2013-07-21",
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "no"
     },
     {
         "calendar_year": 2013,
@@ -5258,20 +5267,20 @@
     {
         "calendar_year": 2013,
         "date": "2013-03-10",
-        "event_id": 473,
-        "event_name": "World Golf Championships-Cadillac Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "basic"
-    },
-    {
-        "calendar_year": 2013,
-        "date": "2013-03-10",
         "event_id": 483,
         "event_name": "Puerto Rico Open presented by seepuertorico.com",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "no"
+    },
+    {
+        "calendar_year": 2013,
+        "date": "2013-03-10",
+        "event_id": 473,
+        "event_name": "World Golf Championships-Cadillac Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "basic"
     },
     {
         "calendar_year": 2013,
@@ -5627,20 +5636,20 @@
     {
         "calendar_year": 2012,
         "date": "2012-03-11",
-        "event_id": 473,
-        "event_name": "World Golf Championships-Cadillac Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "basic"
-    },
-    {
-        "calendar_year": 2012,
-        "date": "2012-03-11",
         "event_id": 483,
         "event_name": "Puerto Rico Open presented by seepuertorico.com",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "no"
+    },
+    {
+        "calendar_year": 2012,
+        "date": "2012-03-11",
+        "event_id": 473,
+        "event_name": "World Golf Championships-Cadillac Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "basic"
     },
     {
         "calendar_year": 2012,
@@ -5843,20 +5852,20 @@
     {
         "calendar_year": 2011,
         "date": "2011-07-17",
-        "event_id": 100,
-        "event_name": "The Open Championship",
-        "sg_categories": "no",
-        "tour": "pga",
-        "traditional_stats": "no"
-    },
-    {
-        "calendar_year": 2011,
-        "date": "2011-07-17",
         "event_id": 54,
         "event_name": "Viking Classic",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "basic"
+    },
+    {
+        "calendar_year": 2011,
+        "date": "2011-07-17",
+        "event_id": 100,
+        "event_name": "The Open Championship",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "no"
     },
     {
         "calendar_year": 2011,
@@ -6005,20 +6014,20 @@
     {
         "calendar_year": 2011,
         "date": "2011-03-13",
-        "event_id": 483,
-        "event_name": "Puerto Rico Open presented by seepuertorico.com",
-        "sg_categories": "no",
-        "tour": "pga",
-        "traditional_stats": "no"
-    },
-    {
-        "calendar_year": 2011,
-        "date": "2011-03-13",
         "event_id": 473,
         "event_name": "World Golf Championships-Cadillac Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "basic"
+    },
+    {
+        "calendar_year": 2011,
+        "date": "2011-03-13",
+        "event_id": 483,
+        "event_name": "Puerto Rico Open presented by seepuertorico.com",
+        "sg_categories": "no",
+        "tour": "pga",
+        "traditional_stats": "no"
     },
     {
         "calendar_year": 2011,
@@ -7076,20 +7085,20 @@
     {
         "calendar_year": 2008,
         "date": "2008-03-23",
-        "event_id": 473,
-        "event_name": "World Golf Championships-CA Championship",
-        "sg_categories": "yes",
-        "tour": "pga",
-        "traditional_stats": "basic"
-    },
-    {
-        "calendar_year": 2008,
-        "date": "2008-03-23",
         "event_id": 483,
         "event_name": "Puerto Rico Open presented by Banco Popular",
         "sg_categories": "no",
         "tour": "pga",
         "traditional_stats": "no"
+    },
+    {
+        "calendar_year": 2008,
+        "date": "2008-03-23",
+        "event_id": 473,
+        "event_name": "World Golf Championships-CA Championship",
+        "sg_categories": "yes",
+        "tour": "pga",
+        "traditional_stats": "basic"
     },
     {
         "calendar_year": 2008,
@@ -7589,8 +7598,8 @@
     {
         "calendar_year": 2006,
         "date": "2006-10-01",
-        "event_id": 54,
-        "event_name": "Southern Farm Bureau Classic",
+        "event_id": 473,
+        "event_name": "World Golf Championships-American Express Championship",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "basic"
@@ -7598,8 +7607,8 @@
     {
         "calendar_year": 2006,
         "date": "2006-10-01",
-        "event_id": 473,
-        "event_name": "World Golf Championships-American Express Championship",
+        "event_id": 54,
+        "event_name": "Southern Farm Bureau Classic",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "basic"
@@ -7877,8 +7886,8 @@
     {
         "calendar_year": 2005,
         "date": "2005-11-06",
-        "event_id": 54,
-        "event_name": "Southern Farm Bureau Classic",
+        "event_id": 60,
+        "event_name": "THE TOUR Championship presented by Coca-Cola",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "basic"
@@ -7886,8 +7895,8 @@
     {
         "calendar_year": 2005,
         "date": "2005-11-06",
-        "event_id": 60,
-        "event_name": "THE TOUR Championship presented by Coca-Cola",
+        "event_id": 54,
+        "event_name": "Southern Farm Bureau Classic",
         "sg_categories": "yes",
         "tour": "pga",
         "traditional_stats": "basic"
