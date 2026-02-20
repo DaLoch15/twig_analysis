@@ -59,16 +59,16 @@
         {
             "country": "USA",
             "course": "Pebble Beach Golf Links;Spyglass Hill Golf Course",
-            "course_key": "005;205",
+            "course_key": "5;205",
             "event_id": "5",
             "event_name": "AT&T Pebble Beach Pro-Am",
             "latitude": 36.569,
             "location": "Pebble Beach, CA",
             "longitude": -121.951,
             "start_date": "2026-02-12",
-            "status": "upcoming",
+            "status": "completed",
             "tour": "pga",
-            "winner": "TBD"
+            "winner": "Morikawa, Collin (22085)"
         },
         {
             "country": "USA",

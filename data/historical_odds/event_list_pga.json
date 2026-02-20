@@ -249,6 +249,14 @@
     },
     {
         "archived_preds": "yes",
+        "calendar_year": 2026,
+        "event_id": 5,
+        "event_name": "AT&T Pebble Beach Pro-Am",
+        "matchups": "yes",
+        "outrights": "yes"
+    },
+    {
+        "archived_preds": "yes",
         "calendar_year": 2020,
         "event_id": 6,
         "event_name": "Sony Open in Hawaii",

@@ -1,6 +1,13 @@
 [
     {
         "calendar_year": 2026,
+        "date": "2026-02-15",
+        "event_id": 5,
+        "event_name": "AT&T Pebble Beach Pro-Am",
+        "tour": "pga"
+    },
+    {
+        "calendar_year": 2026,
         "date": "2026-02-08",
         "event_id": 3,
         "event_name": "WM Phoenix Open",
@@ -198,15 +205,15 @@
     {
         "calendar_year": 2025,
         "date": "2025-05-11",
-        "event_id": 553,
-        "event_name": "ONEflight Myrtle Beach Classic",
+        "event_id": 480,
+        "event_name": "Truist Championship",
         "tour": "pga"
     },
     {
         "calendar_year": 2025,
         "date": "2025-05-11",
-        "event_id": 480,
-        "event_name": "Truist Championship",
+        "event_id": 553,
+        "event_name": "ONEflight Myrtle Beach Classic",
         "tour": "pga"
     },
     {
@@ -275,15 +282,15 @@
     {
         "calendar_year": 2025,
         "date": "2025-03-09",
-        "event_id": 483,
-        "event_name": "Puerto Rico Open",
+        "event_id": 9,
+        "event_name": "Arnold Palmer Invitational presented by Mastercard",
         "tour": "pga"
     },
     {
         "calendar_year": 2025,
         "date": "2025-03-09",
-        "event_id": 9,
-        "event_name": "Arnold Palmer Invitational presented by Mastercard",
+        "event_id": 483,
+        "event_name": "Puerto Rico Open",
         "tour": "pga"
     },
     {

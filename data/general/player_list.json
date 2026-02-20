@@ -238,7 +238,7 @@
         "player_name": "Al Zayed, Ahmed"
     },
     {
-        "amateur": 1,
+        "amateur": 0,
         "country": "Qatar",
         "country_code": "QAT",
         "dg_id": 15960,
@@ -2227,16 +2227,16 @@
     },
     {
         "amateur": 0,
-        "country": "South Africa",
-        "country_code": "RSA",
-        "dg_id": 24608,
+        "country": "New Zealand",
+        "country_code": "NZL",
+        "dg_id": 22715,
         "player_name": "Brown, Luke"
     },
     {
         "amateur": 0,
-        "country": "New Zealand",
-        "country_code": "NZL",
-        "dg_id": 22715,
+        "country": "South Africa",
+        "country_code": "RSA",
+        "dg_id": 24608,
         "player_name": "Brown, Luke"
     },
     {
@@ -5591,6 +5591,13 @@
         "country_code": "KOR",
         "dg_id": 13835,
         "player_name": "Eom, Jaewoong"
+    },
+    {
+        "amateur": 0,
+        "country": "Niger",
+        "country_code": "NIG",
+        "dg_id": 34417,
+        "player_name": "Epe, Francis"
     },
     {
         "amateur": 0,
@@ -12475,16 +12482,16 @@
     },
     {
         "amateur": 0,
-        "country": "Canada",
-        "country_code": "CAN",
-        "dg_id": 12413,
+        "country": "New Zealand",
+        "country_code": "NZL",
+        "dg_id": 5311,
         "player_name": "Lee, Richard"
     },
     {
         "amateur": 0,
-        "country": "New Zealand",
-        "country_code": "NZL",
-        "dg_id": 5311,
+        "country": "Canada",
+        "country_code": "CAN",
+        "dg_id": 12413,
         "player_name": "Lee, Richard"
     },
     {
@@ -13592,6 +13599,13 @@
         "country_code": "ITA",
         "dg_id": 23990,
         "player_name": "Manica, Mafredi"
+    },
+    {
+        "amateur": 1,
+        "country": "Kenya",
+        "country_code": "KEN",
+        "dg_id": 34692,
+        "player_name": "Manji, Junaid"
     },
     {
         "amateur": 0,
@@ -15825,6 +15839,13 @@
         "country_code": "USA",
         "dg_id": 23475,
         "player_name": "Novak, Andrew"
+    },
+    {
+        "amateur": 0,
+        "country": "Rwanda",
+        "country_code": "RWA",
+        "dg_id": 29534,
+        "player_name": "Nsanzuwera, Celestin"
     },
     {
         "amateur": 0,
