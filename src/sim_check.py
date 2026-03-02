@@ -8,17 +8,6 @@ from simulation import simulate_tournament, brier_score, brier_skill_score, log_
 DATA_DIR = Path("data")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
-# STEP 1: LOAD AND INSPECT
-# ══════════════════════════════════════════════════════════════════════════════
-#
-# Before we simulate anything, we need to understand what's in the data.
-# Key questions:
-#   - Which columns does master_rounds actually have?
-#   - Which years/tournaments have predicted_skill populated?
-#   - Are there any NaN issues we need to handle?
-# ══════════════════════════════════════════════════════════════════════════════
-
 print("=" * 70)
 print("STEP 1: Loading and Inspecting Data")
 print("=" * 70)
@@ -68,19 +57,9 @@ for year, pct in skill_by_year.items():
     print(f"    {year}: {pct}")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # STEP 2: PICK A TEST TOURNAMENT
-# ══════════════════════════════════════════════════════════════════════════════
-#
-# We want a tournament that:
-#   - Has predicted_skill for most/all players (skip early years if sparse)
-#   - Has a reasonable field size (100+ players, not a 30-man invitational)
-#   - Has finish_pos data so we can check against actual outcomes
-#   - Is in a RECENT year (2024 or 2025) so predictions are based on
-#     substantial training history
-#
-# We'll list the best candidates and pick one.
-# ══════════════════════════════════════════════════════════════════════════════
+
+
 
 print(f"\n{'=' * 70}")
 print("STEP 2: Finding a Good Test Tournament")
@@ -137,18 +116,10 @@ print(f"    Players: {target['n_players']:.0f}")
 print(f"    Skill coverage: {target['skill_coverage']:.0%}")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+
 # STEP 3: EXTRACT THE FIELD
-# ══════════════════════════════════════════════════════════════════════════════
-#
-# For each player in this tournament, we need their PRE-TOURNAMENT skill
-# estimate. That's the predicted_skill value from their FIRST round in
-# the event — which was computed using only data available before the
-# tournament started (because of the walk-forward feature engineering
-# in Phase 2).
-#
-# We also extract actual outcomes for comparison.
-# ══════════════════════════════════════════════════════════════════════════════
+
+
 
 print(f"\n{'=' * 70}")
 print("STEP 3: Extracting Tournament Field")
@@ -221,14 +192,8 @@ for _, row in field.nlargest(10, "predicted_skill").iterrows():
           f"{rp_str:>6s}")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+
 # STEP 4: RUN THE SIMULATION
-# ══════════════════════════════════════════════════════════════════════════════
-#
-# Now we run the Monte Carlo simulation with the extracted field.
-# We use 100k simulations for good precision.
-# cut_size=65 is standard PGA Tour.
-# ══════════════════════════════════════════════════════════════════════════════
 
 print(f"\n{'=' * 70}")
 print("STEP 4: Running Monte Carlo Simulation")
@@ -260,16 +225,9 @@ for _, row in probs.head(25).iterrows():
           f"{row['expected_finish']:>7.1f}")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+
 # STEP 5: COMPARE TO ACTUAL RESULTS
-# ══════════════════════════════════════════════════════════════════════════════
-#
-# This is the moment of truth. We merge our predictions with what
-# actually happened and check:
-#   1. Did the actual winner have a reasonably high win probability?
-#   2. Do make-cut predictions match actual cut outcomes?
-#   3. Are Brier scores better than a naive baseline?
-# ══════════════════════════════════════════════════════════════════════════════
+
 
 print(f"\n{'=' * 70}")
 print("STEP 5: Comparing Predictions to Actual Results")
@@ -354,19 +312,7 @@ print(f"    ~0.05-0.15 is good for golf (remember: 85% noise)")
 print(f"    < 0 = worse than guessing (something is wrong)")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
-# STEP 6: COMPARE TO DATA GOLF (if available)
-# ══════════════════════════════════════════════════════════════════════════════
-#
-# If you have Data Golf's pre-tournament predictions, we can compare
-# directly. Their predictions represent the "gold standard" — if our
-# model is in the same ballpark, we're doing well.
-#
-# Note: pre_tournament_pga.json only contains the CURRENT week's
-# predictions, not historical ones. So this comparison only works
-# if you saved predictions from the week of the target tournament.
-# For historical comparison, use the outrights (betting odds) instead.
-# ══════════════════════════════════════════════════════════════════════════════
+
 
 print(f"\n{'=' * 70}")
 print("STEP 6: Benchmark Comparison")

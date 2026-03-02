@@ -17,15 +17,6 @@ from skill_estimation import (
 DATA_DIR = Path("data")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
-# FAST FEATURE COMPUTATION
-# ══════════════════════════════════════════════════════════════════════════════
-#
-# The bottleneck is build_all_features() — it iterates through every player's
-# history for each parameter combination. To make the grid search feasible,
-# we precompute the raw ingredients once and then quickly recompute weighted
-# averages for different parameter values.
-# ══════════════════════════════════════════════════════════════════════════════
 
 
 def precompute_player_histories(df):
@@ -211,9 +202,6 @@ def evaluate_params(histories, sg_values_dict, adj_sg_array, year_array,
     return np.mean(mses) if mses else 999.0
 
 
-# ══════════════════════════════════════════════════════════════════════════════
-# STAGE 1: OPTIMIZE TIME-WEIGHTING PARAMETERS
-# ══════════════════════════════════════════════════════════════════════════════
 #
 # Grid search over seq_decay and time_half_life.
 #
@@ -226,10 +214,7 @@ def evaluate_params(histories, sg_values_dict, adj_sg_array, year_array,
 #   60 days = very short-term form emphasis
 #   120 days = medium-term ← our default
 #   240 days = long-term, slow decay
-#
-# Data Golf found that the optimal scheme is "medium-term" — recent form
-# matters but 2-3 year old data still gets non-zero weight.
-# ══════════════════════════════════════════════════════════════════════════════
+
 
 
 def optimize_time_weighting(df, histories, sg_weights=None):
@@ -313,27 +298,13 @@ def optimize_time_weighting(df, histories, sg_weights=None):
     return best_params, results_df
 
 
-# ══════════════════════════════════════════════════════════════════════════════
-# STAGE 2: OPTIMIZE SG REWEIGHTING COEFFICIENTS
-# ══════════════════════════════════════════════════════════════════════════════
-#
 # Now fix the time-weighting at Stage 1's optimum and search over the
 # SG component weights.
 #
-# We don't search ALL 4 weights independently — that would be too many
-# combinations. Instead we use a constrained search:
 #   - β_APP is fixed at 1.0 (the reference point)
 #   - β_OTT varies relative to APP (how much MORE predictive is OTT?)
 #   - β_ARG varies relative to APP (how much LESS predictive is ARG?)
-#   - β_PUTT varies relative to APP (how much LESS predictive is PUTT?)
-#
-# This is equivalent to asking: "how should we tilt the reweighting
-# relative to treating all components equally?"
-#
-# The Data Golf defaults (1.2, 1.0, 0.9, 0.6) provide our center point.
-# We search around these values to see if different weights work better
-# on YOUR specific data.
-# ══════════════════════════════════════════════════════════════════════════════
+#   - β_PUTT varies relative to APP (how much LESS predictive is PUTT?
 
 
 def optimize_sg_weights(df, histories, best_time_params):
